@@ -1,1 +1,1 @@
-# Implement geolocation modules on expo app 👋
+# Example implement geolocation package on expo app 👋
